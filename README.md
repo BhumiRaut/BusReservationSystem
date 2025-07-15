@@ -1,3 +1,3 @@
 #  Bus ReservationSystem
 ### OUTPUT
-![Sample Output](Output.png)
+![Sample Output](output.png)
